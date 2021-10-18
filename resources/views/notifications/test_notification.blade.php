@@ -1,0 +1,1 @@
+You has Log In {{ $noti->data['data']['name'] }}
